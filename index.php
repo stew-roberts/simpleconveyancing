@@ -59,7 +59,7 @@
 						<div class="col-sm-9">
 							<div class="header-left">
 								<div class="logo padding-20">
-									<a href="index7.html"><img src="assets/img/logo-white-sm.png" alt=""></a>
+									<a href="/index.php"><img src="assets/img/logo-white-sm.png" alt=""></a>
 								</div>
 								<nav class="navigtation nav">
 									<div class="navbar-header">
