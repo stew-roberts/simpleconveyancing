@@ -1,7 +1,8 @@
 <?php
-$bodytag = str_replace("%body%", "black", "<body text='%body%'>");
+    $apiKey = '76261671-11f4-47e1-be77-3e5d461886be';
     $locality = str_replace("-", " ", $_GET['location']);
-    $pageData = json_decode(file_get_contents('http://contentmanagement.streamwiredigital.com/index.php/api/format/json'));
+    $pageData = json_decode(file_get_contents('http://contentmanagement.streamwiredigital.com/index.php/api/format/json/apikey/' . $apiKey ));
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
