@@ -2405,3 +2405,21 @@ div#preloader {
 #back-to-top.show {
     opacity: 1;
 }
+
+/* TCN */
+.tcnframe .btn-default:hover, .tcnframe .btn-default:focus, .tcnframe .btn-default:active, .tcnframe .btn-default.active, .open .dropdown-toggle.tcnframe .btn-default {
+    color: #fff;
+    background-color: #F8CF27 !important;
+    border-color: #F8CF27 !important;
+}
+
+.tcnframe .btn-default {
+    background-color: #F8CF27 !important;
+    border-color: #F8CF27 !important;
+    background-image: none;
+    color: #fff;
+}
+
+.tcnframe .transaction-buttons button.active .fa {
+    color: #F8CF27 !important;
+}
