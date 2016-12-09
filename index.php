@@ -1,3 +1,4 @@
+<?php include('./config/config.php'); ?>
 <?php include('./config/api.php'); ?>
 <!DOCTYPE html>
 <!-- saved from url=(0046)http://company.design360studios.com/about.html -->
