@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-1">
                 <div class="logo">
-                    <a href="/index.php"><img src="./public/img/logo.png" alt="Simple Conveyancing - Low Cost Conveyancing Quotes"></a>
+                    <a href="/index.php"><img src="/public/img/logo.png" alt="Simple Conveyancing - Low Cost Conveyancing Quotes"></a>
                 </div>
                 <!-- /.End Of Logo -->
             </div>
